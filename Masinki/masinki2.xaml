@@ -1,0 +1,24 @@
+﻿<Window x:Class="masinki.masinki2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:masinki"
+        mc:Ignorable="d"
+        Title="masinki2" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid RenderTransformOrigin="1.121,0.332" Background="#FF68619A">
+        <Label Content="Добро пожаловать!!!" HorizontalAlignment="Center" Margin="0,71,0,0" VerticalAlignment="Top" FontSize="36" FontWeight="Bold" Foreground="White"/>
+        <Button Content="Список гаражей" HorizontalAlignment="Left" Margin="117,0,0,0" VerticalAlignment="Center" FontSize="24" Height="63" Click="Button_Click_2" Foreground="White" Background="#FFD07777" FontWeight="Bold" Width="232"/>
+        <Button Content="Оформить заявку" HorizontalAlignment="Left" Margin="451,0,0,0" VerticalAlignment="Center" FontSize="24" Height="63" Click="Button_Click" Background="#FFD07777" Foreground="White" FontWeight="Bold" Width="235" OpacityMask="#FFD07777"/>
+        <Button Content="Отчет" HorizontalAlignment="Center" Margin="0,318,0,0" VerticalAlignment="Top" FontSize="20" Height="44" Width="100" Background="#FFD07777" Foreground="White" FontWeight="Bold" Click="Button_Click_3"/>
+        <Image HorizontalAlignment="Left" Height="59" Margin="666,0,0,0" VerticalAlignment="Top" Width="126"/>
+        <Image Margin="681,0,0,379" Source="Image2.png" Stretch="Fill"/>
+        <Rectangle HorizontalAlignment="Left" Height="32" Margin="25,14,0,0" Stroke="#FFD07777" VerticalAlignment="Top" Width="37" Fill="#FFD07777"/>
+        <Button Content="" HorizontalAlignment="Left" Margin="25,14,0,0" VerticalAlignment="Top" FontSize="18" Click="Button_Click_1" Foreground="White" FontWeight="Bold" Width="37" Height="32" BorderBrush="#FFD07777">
+            <Button.Background>
+                <ImageBrush ImageSource="/icons8-назад-48.png"/>
+            </Button.Background>
+        </Button>
+
+    </Grid>
+</Window>

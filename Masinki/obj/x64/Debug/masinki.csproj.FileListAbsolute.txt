@@ -1,0 +1,378 @@
+C:\Users\user\Desktop\masinki\obj\x64\Debug\masinki.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\masinki\obj\x64\Debug\masinki.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\masinki\obj\x64\Debug\admin.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\garage11.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\garage12.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\garages.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\masinki1.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\masinki2.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\masinki4.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\App.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\masinki_MarkupCompile.cache
+C:\Users\user\Desktop\masinki\obj\x64\Debug\masinki_MarkupCompile.lref
+C:\Users\user\Desktop\masinki\bin\x64\Debug\masinki.exe.config
+C:\Users\user\Desktop\masinki\bin\x64\Debug\masinki.exe
+C:\Users\user\Desktop\masinki\bin\x64\Debug\masinki.pdb
+C:\Users\user\Desktop\masinki\obj\x64\Debug\admin.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\garage11.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\garage12.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\garages.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\MainWindow.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\masinki1.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\masinki2.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\masinki4.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\masinki.g.resources
+C:\Users\user\Desktop\masinki\obj\x64\Debug\masinki.Properties.Resources.resources
+C:\Users\user\Desktop\masinki\obj\x64\Debug\masinki.csproj.GenerateResource.cache
+C:\Users\user\Desktop\masinki\obj\x64\Debug\masinki.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\masinki\obj\x64\Debug\masinki.exe
+C:\Users\user\Desktop\masinki\obj\x64\Debug\masinki.pdb
+C:\Users\user\Desktop\masinki\obj\x64\Debug\redach1.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\redach2.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\redach1.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\redach2.baml
+C:\Users\Student\Desktop\masinki\bin\x64\Debug\masinki.exe.config
+C:\Users\Student\Desktop\masinki\bin\x64\Debug\masinki.exe
+C:\Users\Student\Desktop\masinki\bin\x64\Debug\masinki.pdb
+C:\Users\Student\Desktop\masinki\obj\x64\Debug\masinki.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\masinki\obj\x64\Debug\masinki.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Desktop\masinki\obj\x64\Debug\admin.g.cs
+C:\Users\Student\Desktop\masinki\obj\x64\Debug\avtoriza.g.cs
+C:\Users\Student\Desktop\masinki\obj\x64\Debug\avtoriza1.g.cs
+C:\Users\Student\Desktop\masinki\obj\x64\Debug\garage11.g.cs
+C:\Users\Student\Desktop\masinki\obj\x64\Debug\garage12.g.cs
+C:\Users\Student\Desktop\masinki\obj\x64\Debug\garages.g.cs
+C:\Users\Student\Desktop\masinki\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Student\Desktop\masinki\obj\x64\Debug\masinki1.g.cs
+C:\Users\Student\Desktop\masinki\obj\x64\Debug\masinki2.g.cs
+C:\Users\Student\Desktop\masinki\obj\x64\Debug\masinki4.g.cs
+C:\Users\Student\Desktop\masinki\obj\x64\Debug\redach1.g.cs
+C:\Users\Student\Desktop\masinki\obj\x64\Debug\redach2.g.cs
+C:\Users\Student\Desktop\masinki\obj\x64\Debug\App.g.cs
+C:\Users\Student\Desktop\masinki\obj\x64\Debug\masinki_MarkupCompile.cache
+C:\Users\Student\Desktop\masinki\obj\x64\Debug\masinki_MarkupCompile.lref
+C:\Users\Student\Desktop\masinki\obj\x64\Debug\admin.baml
+C:\Users\Student\Desktop\masinki\obj\x64\Debug\avtoriza.baml
+C:\Users\Student\Desktop\masinki\obj\x64\Debug\avtoriza1.baml
+C:\Users\Student\Desktop\masinki\obj\x64\Debug\garage11.baml
+C:\Users\Student\Desktop\masinki\obj\x64\Debug\garage12.baml
+C:\Users\Student\Desktop\masinki\obj\x64\Debug\garages.baml
+C:\Users\Student\Desktop\masinki\obj\x64\Debug\MainWindow.baml
+C:\Users\Student\Desktop\masinki\obj\x64\Debug\masinki1.baml
+C:\Users\Student\Desktop\masinki\obj\x64\Debug\masinki2.baml
+C:\Users\Student\Desktop\masinki\obj\x64\Debug\masinki4.baml
+C:\Users\Student\Desktop\masinki\obj\x64\Debug\redach1.baml
+C:\Users\Student\Desktop\masinki\obj\x64\Debug\redach2.baml
+C:\Users\Student\Desktop\masinki\obj\x64\Debug\masinki.g.resources
+C:\Users\Student\Desktop\masinki\obj\x64\Debug\masinki.Properties.Resources.resources
+C:\Users\Student\Desktop\masinki\obj\x64\Debug\masinki.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\masinki\obj\x64\Debug\masinki.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\masinki\obj\x64\Debug\masinki.exe
+C:\Users\Student\Desktop\masinki\obj\x64\Debug\masinki.pdb
+C:\Users\user\Desktop\masinki\obj\x64\Debug\masinki_Content.g.cs
+D:\Лисенков Рислинг\masinki\bin\x64\Debug\Database1DataSet.Designer.cs
+D:\Лисенков Рислинг\masinki\bin\x64\Debug\Database1DataSet.xsc
+D:\Лисенков Рислинг\masinki\bin\x64\Debug\Database1DataSet.xsd
+D:\Лисенков Рислинг\masinki\bin\x64\Debug\Database1DataSet.xss
+D:\Лисенков Рислинг\masinki\bin\x64\Debug\masinki.exe.config
+D:\Лисенков Рислинг\masinki\bin\x64\Debug\masinki.exe
+D:\Лисенков Рислинг\masinki\bin\x64\Debug\masinki.pdb
+D:\Лисенков Рислинг\masinki\obj\x64\Debug\masinki.csproj.AssemblyReference.cache
+D:\Лисенков Рислинг\masinki\obj\x64\Debug\masinki.csproj.SuggestedBindingRedirects.cache
+D:\Лисенков Рислинг\masinki\obj\x64\Debug\admin.g.cs
+D:\Лисенков Рислинг\masinki\obj\x64\Debug\avtoriza.g.cs
+D:\Лисенков Рислинг\masinki\obj\x64\Debug\avtoriza1.g.cs
+D:\Лисенков Рислинг\masinki\obj\x64\Debug\garage11.g.cs
+D:\Лисенков Рислинг\masinki\obj\x64\Debug\garage12.g.cs
+D:\Лисенков Рислинг\masinki\obj\x64\Debug\garages.g.cs
+D:\Лисенков Рислинг\masinki\obj\x64\Debug\MainWindow.g.cs
+D:\Лисенков Рислинг\masinki\obj\x64\Debug\masinki1.g.cs
+D:\Лисенков Рислинг\masinki\obj\x64\Debug\masinki2.g.cs
+D:\Лисенков Рислинг\masinki\obj\x64\Debug\masinki4.g.cs
+D:\Лисенков Рислинг\masinki\obj\x64\Debug\redach1.g.cs
+D:\Лисенков Рислинг\masinki\obj\x64\Debug\redach2.g.cs
+D:\Лисенков Рислинг\masinki\obj\x64\Debug\App.g.cs
+D:\Лисенков Рислинг\masinki\obj\x64\Debug\masinki_Content.g.cs
+D:\Лисенков Рислинг\masinki\obj\x64\Debug\masinki_MarkupCompile.cache
+D:\Лисенков Рислинг\masinki\obj\x64\Debug\masinki_MarkupCompile.lref
+D:\Лисенков Рислинг\masinki\obj\x64\Debug\admin.baml
+D:\Лисенков Рислинг\masinki\obj\x64\Debug\avtoriza.baml
+D:\Лисенков Рислинг\masinki\obj\x64\Debug\avtoriza1.baml
+D:\Лисенков Рислинг\masinki\obj\x64\Debug\garage11.baml
+D:\Лисенков Рислинг\masinki\obj\x64\Debug\garage12.baml
+D:\Лисенков Рислинг\masinki\obj\x64\Debug\garages.baml
+D:\Лисенков Рислинг\masinki\obj\x64\Debug\MainWindow.baml
+D:\Лисенков Рислинг\masinki\obj\x64\Debug\masinki1.baml
+D:\Лисенков Рислинг\masinki\obj\x64\Debug\masinki2.baml
+D:\Лисенков Рислинг\masinki\obj\x64\Debug\masinki4.baml
+D:\Лисенков Рислинг\masinki\obj\x64\Debug\redach1.baml
+D:\Лисенков Рислинг\masinki\obj\x64\Debug\redach2.baml
+D:\Лисенков Рислинг\masinki\obj\x64\Debug\masinki.g.resources
+D:\Лисенков Рислинг\masinki\obj\x64\Debug\masinki.Properties.Resources.resources
+D:\Лисенков Рислинг\masinki\obj\x64\Debug\masinki.csproj.GenerateResource.cache
+D:\Лисенков Рислинг\masinki\obj\x64\Debug\masinki.csproj.CoreCompileInputs.cache
+D:\Лисенков Рислинг\masinki\obj\x64\Debug\masinki.exe
+D:\Лисенков Рислинг\masinki\obj\x64\Debug\masinki.pdb
+C:\Users\Student\Desktop\masinki\bin\x64\Debug\Database1DataSet.Designer.cs
+C:\Users\Student\Desktop\masinki\bin\x64\Debug\Database1DataSet.xsc
+C:\Users\Student\Desktop\masinki\bin\x64\Debug\Database1DataSet.xsd
+C:\Users\Student\Desktop\masinki\bin\x64\Debug\Database1DataSet.xss
+C:\Users\Student\Desktop\masinki\obj\x64\Debug\masinki_Content.g.cs
+C:\Users\Student.3-306-11\Desktop\masinki\bin\x64\Debug\Database1DataSet.Designer.cs
+C:\Users\Student.3-306-11\Desktop\masinki\bin\x64\Debug\Database1DataSet.xsc
+C:\Users\Student.3-306-11\Desktop\masinki\bin\x64\Debug\Database1DataSet.xsd
+C:\Users\Student.3-306-11\Desktop\masinki\bin\x64\Debug\Database1DataSet.xss
+C:\Users\Student.3-306-11\Desktop\masinki\bin\x64\Debug\masinki.exe.config
+C:\Users\Student.3-306-11\Desktop\masinki\bin\x64\Debug\masinki.exe
+C:\Users\Student.3-306-11\Desktop\masinki\bin\x64\Debug\masinki.pdb
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\masinki.csproj.AssemblyReference.cache
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\admin.g.cs
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\avtoriza.g.cs
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\avtoriza1.g.cs
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\garage11.g.cs
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\garage12.g.cs
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\garages.g.cs
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\masinki1.g.cs
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\masinki2.g.cs
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\masinki4.g.cs
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\Pechat.g.cs
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\redach1.g.cs
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\redach2.g.cs
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\App.g.cs
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\masinki_Content.g.cs
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\masinki_MarkupCompile.cache
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\masinki_MarkupCompile.lref
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\admin.baml
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\avtoriza.baml
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\avtoriza1.baml
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\garage11.baml
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\garage12.baml
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\garages.baml
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\MainWindow.baml
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\masinki1.baml
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\masinki2.baml
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\masinki4.baml
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\Pechat.baml
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\redach1.baml
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\redach2.baml
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\masinki.g.resources
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\masinki.Properties.Resources.resources
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\masinki.csproj.GenerateResource.cache
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\masinki.csproj.CoreCompileInputs.cache
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\masinki.exe
+C:\Users\Student.3-306-11\Desktop\masinki\obj\x64\Debug\masinki.pdb
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Pechat.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Pechat.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\garage 1.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\garage10.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\garage13.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\garage14.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\garage15.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\garage2.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\garage3.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\garage4.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\garage5.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\garage6.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\garage7.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\garage8.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\garage9.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Mesto1.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Mesto10.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Mesto11.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Mesto12.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Mesto13.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Mesto14.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Mesto15.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Mesto2.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Mesto3.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Mesto4.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Mesto5.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Mesto6.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Mesto7.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Mesto8.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Mesto9.g.cs
+C:\Users\user\Desktop\masinki\bin\x64\Debug\Database1.accdb
+C:\Users\user\Desktop\masinki\obj\x64\Debug\garage 1.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\garage10.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\garage13.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\garage14.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\garage15.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\garage2.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\garage3.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\garage4.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\garage5.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\garage6.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\garage7.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\garage8.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\garage9.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Mesto1.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Mesto10.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Mesto11.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Mesto12.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Mesto13.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Mesto14.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Mesto15.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Mesto2.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Mesto3.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Mesto4.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Mesto5.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Mesto6.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Mesto7.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Mesto8.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Mesto9.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Shema1.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Shema2.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Shema1.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Shema2.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Shema10.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Shema11.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Shema12.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Shema14.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Shema15.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Shema3.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Shema4.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Shema5.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Shema6.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Shema7.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Shema8.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Shema9.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Shema10.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Shema11.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Shema12.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Shema14.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Shema15.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Shema3.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Shema4.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Shema5.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Shema6.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Shema7.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Shema8.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Shema9.baml
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Shema13.g.cs
+C:\Users\user\Desktop\masinki\obj\x64\Debug\Shema13.baml
+C:\Users\user\Desktop\Проекты\masinki\bin\x64\Debug\Database1.accdb
+C:\Users\user\Desktop\Проекты\masinki\bin\x64\Debug\masinki.exe.config
+C:\Users\user\Desktop\Проекты\masinki\bin\x64\Debug\masinki.exe
+C:\Users\user\Desktop\Проекты\masinki\bin\x64\Debug\masinki.pdb
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\masinki.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\masinki.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\admin.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\garage 1.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\garage10.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\garage11.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\garage12.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\garage13.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\garage14.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\garage15.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\garage2.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\garage3.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\garage4.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\garage5.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\garage6.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\garage7.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\garage8.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\garage9.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\garages.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\masinki1.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\masinki2.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\masinki4.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Mesto1.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Mesto10.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Mesto11.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Mesto12.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Mesto13.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Mesto14.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Mesto15.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Mesto2.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Mesto3.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Mesto4.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Mesto5.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Mesto6.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Mesto7.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Mesto8.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Mesto9.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Pechat.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\redach1.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\redach2.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Shema1.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Shema10.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Shema11.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Shema12.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Shema13.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Shema14.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Shema15.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Shema2.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Shema3.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Shema4.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Shema5.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Shema6.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Shema7.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Shema8.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Shema9.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\App.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\masinki_Content.g.cs
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\masinki_MarkupCompile.cache
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\masinki_MarkupCompile.lref
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\admin.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\garage 1.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\garage10.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\garage11.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\garage12.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\garage13.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\garage14.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\garage15.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\garage2.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\garage3.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\garage4.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\garage5.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\garage6.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\garage7.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\garage8.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\garage9.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\garages.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\MainWindow.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\masinki1.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\masinki2.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\masinki4.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Mesto1.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Mesto10.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Mesto11.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Mesto12.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Mesto13.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Mesto14.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Mesto15.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Mesto2.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Mesto3.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Mesto4.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Mesto5.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Mesto6.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Mesto7.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Mesto8.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Mesto9.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Pechat.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\redach1.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\redach2.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Shema1.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Shema10.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Shema11.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Shema12.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Shema13.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Shema14.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Shema15.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Shema2.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Shema3.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Shema4.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Shema5.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Shema6.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Shema7.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Shema8.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\Shema9.baml
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\masinki.g.resources
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\masinki.Properties.Resources.resources
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\masinki.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\masinki.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\masinki.exe
+C:\Users\user\Desktop\Проекты\masinki\obj\x64\Debug\masinki.pdb

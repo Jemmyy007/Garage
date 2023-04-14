@@ -1,0 +1,29 @@
+﻿<Window x:Class="masinki.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:masinki"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid Background="#FF68619A">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="43*"/>
+            <RowDefinition Height="167*"/>
+        </Grid.RowDefinitions>
+        <Label Content="Информационная система деятельности&#xD;&#xA;&#x9;гаражного кооператива" HorizontalAlignment="Center" Margin="0,45,0,0" VerticalAlignment="Top" HorizontalContentAlignment="Center" FontSize="36" VerticalContentAlignment="Center" Height="105" Width="780" FontWeight="Bold" Foreground="White" Grid.RowSpan="2"/>
+
+        <Button  Content=" Войти в систему " HorizontalAlignment="Center" VerticalAlignment="Top" Height="44" Width="184" FontSize="20" Click="Button_Click" Background="#FFD07777" FontWeight="Bold" Foreground="White" Margin="0,238,0,0" IsDefault="True" Grid.Row="1"/>
+        <Image HorizontalAlignment="Left" Height="59" Margin="666,0,0,0" VerticalAlignment="Top" Width="126"/>
+        <Image Margin="681,0,0,28" Source="Image2.png" Stretch="Fill"/>
+        <Label Content="ver 0.1" HorizontalAlignment="Left" Margin="716,300,0,0" VerticalAlignment="Top" FontWeight="Bold" Foreground="White" Height="23" Grid.Row="1"/>
+        <TextBox x:Name="Login" HorizontalAlignment="Left" Margin="310,74,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="236" Height="27"/>
+        <PasswordBox x:Name="Password" HorizontalAlignment="Left" Margin="310,129,0,0" Grid.Row="1" VerticalAlignment="Top" Width="236" Height="27"/>
+        <ComboBox x:Name="Polsovatel" HorizontalAlignment="Center" Margin="0,185,0,0" Grid.Row="1" VerticalAlignment="Top" Width="132" Height="26">
+            <ComboBoxItem Content="Менеджер"/>
+            <ComboBoxItem Content="Админ"/>
+        </ComboBox>
+        <Label Content=" Логин" HorizontalAlignment="Left" Margin="230,74,0,0" Grid.Row="1" VerticalAlignment="Top" Width="74" Background="#FFD07777" Foreground="White" FontWeight="Bold" FontSize="16" Height="27"/>
+        <Label Content="Пароль" HorizontalAlignment="Left" Margin="230,129,0,0" Grid.Row="1" VerticalAlignment="Top" Width="74" Background="#FFD07777" Foreground="White" FontWeight="Bold" FontSize="16" Height="27"/>
+    </Grid>
+</Window>

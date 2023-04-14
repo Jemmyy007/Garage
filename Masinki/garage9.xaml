@@ -1,0 +1,40 @@
+﻿<Window x:Class="masinki.garage9"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:masinki"
+        mc:Ignorable="d"
+        Title="garage9" Height="450" Width="800">
+    <Grid Background="#FF68619A">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="97*"/>
+            <ColumnDefinition Width="103*"/>
+        </Grid.ColumnDefinitions>
+        <Image HorizontalAlignment="Left" Height="264" Margin="12,77,0,0" VerticalAlignment="Top" Width="381" Source="/123123123.png" Grid.Column="1"/>
+        <Label Content="Площадь: " HorizontalAlignment="Left" Margin="44,70,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="22" Foreground="White"/>
+        <Label Content="Гаражных мест:" HorizontalAlignment="Left" Margin="46,104,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="22" Foreground="White"/>
+        <Label Content="Опции:" HorizontalAlignment="Left" Margin="46,132,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="22" Foreground="White"/>
+        <Label Content="Стоимость:" HorizontalAlignment="Left" Margin="54,322,0,0" VerticalAlignment="Top" FontSize="22" FontWeight="Bold" Foreground="White" RenderTransformOrigin="0.577,0.666"/>
+        <Label Content="20 кв. м. (4х5)" HorizontalAlignment="Left" Margin="174,77,0,0" VerticalAlignment="Top" Width="134" FontSize="16" FontWeight="Bold" Foreground="White"/>
+        <Label Content="2" HorizontalAlignment="Left" Margin="246,106,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="18" Foreground="White"/>
+        <Label Content="-Освещение" HorizontalAlignment="Left" Margin="144,138,0,0" VerticalAlignment="Top" FontSize="16" Width="124" FontWeight="Bold" Foreground="White" Height="33"/>
+        <Label Content="-Отопление" HorizontalAlignment="Left" Margin="143,171,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" Foreground="White"/>
+        <Label Content="-Сигнализация" HorizontalAlignment="Left" Margin="143,205,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16" Foreground="White"/>
+        <Label Content="-Автоматические ворота" HorizontalAlignment="Left" Margin="144,239,0,0" VerticalAlignment="Top" Foreground="White" FontSize="16" FontWeight="Bold"/>
+        <Label x:Name="lblPrice9" Content="Label" HorizontalAlignment="Left" Margin="197,322,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="22" Foreground="#FF00FF31" Width="202" Height="50" Grid.ColumnSpan="2"/>
+        <Rectangle Fill="#FFD07777" HorizontalAlignment="Left" Height="32" Margin="20,20,0,0" Stroke="#FFD07777" VerticalAlignment="Top" Width="38" RenderTransformOrigin="0.842,1.078"/>
+        <Button Content="" HorizontalAlignment="Left" Margin="20,20,0,0" VerticalAlignment="Top" Height="32" Width="38" FontWeight="Bold" Foreground="White" FontSize="14"  IsCancel="True" RenderTransformOrigin="0.462,0.157" Click="Button_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="/icons8-назад-48.png"/>
+            </Button.Background>
+        </Button>
+        <Image HorizontalAlignment="Left" Height="59" Margin="278,0,0,0" VerticalAlignment="Top" Width="126" Grid.Column="1"/>
+        <Image Margin="293,0,0,384" Source="/Image2.png" Stretch="Fill" Grid.Column="1"/>
+        <Button Content="Карта" HorizontalAlignment="Left" Margin="240,357,0,0" VerticalAlignment="Top" Height="35" Width="76" Background="#FFD07777" FontSize="18" Foreground="White" Click="Button_Click_1" FontWeight="Bold" Grid.Column="1"/>
+        <Button Content="Чертеж" HorizontalAlignment="Left" Margin="85,357,0,0" VerticalAlignment="Top" Height="34" Width="76" Background="#FFD07777" Foreground="White" FontWeight="Bold" FontSize="18" Click="Button_Click_2" Grid.Column="1" />
+        <Button Content="Оформить" HorizontalAlignment="Left" Margin="136,368,0,0" VerticalAlignment="Top" Height="32" Width="105" Background="#FFD07777" Foreground="White" FontWeight="Bold" FontSize="18" Click="Button_Click_3"/>
+        <Label x:Name="lblStatus9" Content="Label" HorizontalAlignment="Left" Margin="136,273,0,0" VerticalAlignment="Top" Height="38" Width="135" FontWeight="Bold" FontSize="20" Foreground="#FF00FF31"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,52 @@
+﻿<Window x:Class="masinki.Pechat"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:masinki"
+        mc:Ignorable="d"
+        Title="Pechat" Height="707" Width="800">
+    <Grid Background="#FF68619A">
+        <Grid.ColumnDefinitions>
+
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="665"/>
+
+
+            <RowDefinition/>
+
+
+
+        </Grid.RowDefinitions>
+        <Grid x:Name="print">
+            <Label Content="Отчет" Grid.Row="0" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" Height="62" Width="120" FontSize="36" FontWeight="Bold" Foreground="White"/>
+            <Image HorizontalAlignment="Left" Height="59" Margin="270,0,0,0" VerticalAlignment="Top" Width="126"/>
+            <Image Margin="676,0,0,607" Source="Image2.png" Stretch="Fill"/>
+            <Rectangle Fill="#FFD07777" HorizontalAlignment="Left" Height="32" Margin="22,22,0,0" Stroke="#FFD07777" VerticalAlignment="Top" Width="38"/>
+            <Button Content="" HorizontalAlignment="Left" Margin="22,22,0,0" VerticalAlignment="Top" Height="32" Width="38" FontWeight="Bold" Foreground="White" FontSize="14" Click="Button_Click" IsCancel="True" RenderTransformOrigin="0.462,0.157" BorderBrush="#FFD07777">
+                <Button.Background>
+                    <ImageBrush ImageSource="icons8-назад-48.png"/>
+                </Button.Background>
+            </Button>
+            <DataGrid x:Name="DataZakaz" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="71,106,67,10"/>
+        </Grid>
+        <Grid x:Name="up" Grid.Row="0" Grid.RowSpan="1" Margin="2,0,0,587">
+            <Rectangle HorizontalAlignment="Left" Height="40" Margin="552,0,0,0" Stroke="#FFD07777" VerticalAlignment="Center" Width="52" Fill="#FFD07777" RenderTransformOrigin="0.519,0.506"/>
+        </Grid>
+        <Button Content="" HorizontalAlignment="Left" Margin="554,18,0,0" VerticalAlignment="Top" Height="42" RenderTransformOrigin="0.5,0.5" Click="Button_Click_1" Width="53">
+            <Button.Background>
+                <ImageBrush ImageSource="/icons8-печать-48.png"/>
+            </Button.Background>
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-180.483"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+
+    </Grid>
+</Window>
